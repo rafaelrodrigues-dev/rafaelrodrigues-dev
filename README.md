@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **rafaelrodrigues-dev/rafaelrodrigues-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi, I am Rafael 👋
+## 🛠️ Skills/Tools
+![Skills](https://skillicons.dev/icons?i=python,postgres,docker,django,vscode,git,github&theme=light)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=rafaelrodrigues-dev&show_icons=true&theme=dracula)
+
+![Most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelrodrigues-dev&layout=compact&theme=dracula)
+
+## 🖥️Projects
+- [Social network](https://github.com/rafaelrodrigues-dev/social-network) - A simple social network where you can view and like posts, and follow other users
+- [Weather API](https://github.com/rafaelrodrigues-dev/weather-api) - A API to get current and forecas weather data
