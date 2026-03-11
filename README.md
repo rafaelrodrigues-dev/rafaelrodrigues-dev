@@ -19,3 +19,4 @@ Welcome to my Gitub profile, I am a developer with a passion for technology focu
 ## 🖥️Projects
 - [Social network](https://github.com/rafaelrodrigues-dev/social-network) - A simple social network where you can view and like posts, and follow other users
 - [Weather API](https://github.com/rafaelrodrigues-dev/weather-api) - A API to get current and forecast weather data
+- [Taking Notes API](https://github.com/rafaelrodrigues-dev/taking-notes-api) - A API to create, edit and delete notes and tasks.
